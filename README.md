@@ -40,5 +40,5 @@ Este repositório contém anotações, dicas e capturas de tela do processo de c
 
 ## 🖼️ Capturas de Tela
 
-As imagens estão na pasta `/images`.
+As imagens estão na pasta `/imagem`.
 
